@@ -13,7 +13,7 @@ With absolutely NO PERMISSIONS, and only 2 config values that ***CAN*** be chang
 
 | Key | Value | Description |
 | --- | --- | --- |
-| prefix | "&5[&uReplikate&5]&f >> " | The prepended string added to each message delivered from the plugin |
+| prefix | "&5[&uReplikate&5]&f >> " | The prepended string added to each message delivered from the plugin. **BE SURE** to use the `&` symbol to denote color codes! |
 | genome-catalyst | 'PHANTOM_MEMBRANE' | This is ***a MATERIAL*** that is required for EACH clone procedure; defaults as Phantom Membrane, but can be changed to whatever is desired |
 
 ####
@@ -89,3 +89,8 @@ Below are ALL of the standard Mob / Creature drops that occur naturally and each
 | Chicken | Raw Chicken | Sheep | Raw Mutton |
 | Pig | Raw Porkchop | Rabbit | Rabbit Foot |
 | Squid | Ink Sac | Glow Squid | Glow Ink Sac |
+####  
+####
+## Support
+**F4ngdev** is always working tirelessly to ensure quality functional plugins, and should any questions or needs arise, we invite you to open a support ticket here on the **CakeSMP Github** where we can manage and get all things plugin related handled. If this forum isn't working for you, we always have the [**F4ngdev Discord**](https://discord.gg/k28sR69n5f) where everything plugin and development related is open-discussion.
+####  
