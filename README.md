@@ -24,7 +24,12 @@ The cloning procedure is relatively simple, however there are some requirements 
 
 #### Formaldehyde
 
-**Formaldehyde** is a required ingredient to create clones of creatures in your server, and it is made by Brewing a **THICK** potion.
+**Formaldehyde** is a required ingredient to create clones of creatures in your server, and it is made by Brewing a **THICK** potion, then crafting it using the recipe below:  
+
+| Air | Blaze Powder | Air |
+| --- | --- | --- |
+| Air | Thick Potion | Air |
+| Air | Torch | Air |
 
 #### Clone Layout
 
